@@ -1,0 +1,42 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "ansh",
+            "request": "launch",
+            "mainClass": "ansh",
+            "projectName": "my java_c7673334"
+        },
+        {
+            "type": "java",
+            "name": "circle",
+            "request": "launch",
+            "mainClass": "circle",
+            "projectName": "my java_c7673334"
+        },
+        {
+            "type": "java",
+            "name": "node",
+            "request": "launch",
+            "mainClass": "node",
+            "projectName": "my java_c7673334"
+        },
+        {
+            "type": "java",
+            "name": "main",
+            "request": "launch",
+            "mainClass": "main",
+            "projectName": "my java_c7673334"
+        },
+        {
+            "type": "chrome",
+            "request": "launch",
+            "name": "Open anuj.html",
+            "file": "c:\\Users\\DELL\\Desktop\\my java\\python\\anuj.html"
+        }
+    ]
+}
